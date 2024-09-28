@@ -8,6 +8,6 @@
 ### Try the following question:
 **Exercise:** Let three container of volume in ratio $1:4:2$ and let in first conatiner, second and third container we have a mixture of old monk, fruit bear and sperm in the ratio $1:2:3$, $2:3:4$, $4:5:6$. Pour the content of all three containers into a bigger container. What will be the ratio of old monk, fruit bear and sperm?
 
-**Answer:** $$(\frac{1}{1+2+3} \times 1)+(\frac{2}{2+3+4} \times 4)+(\frac{4}{4+5+6}\times 2):$$ 
-$$(\frac{2}{6}\times 1)+(\frac{3}{9}\times 4)+(\frac{5}{15}\times 2):$$ 
-$$(\frac{3}{6}\times 1)+(\frac{4}{9}\times 4)+(\frac{6}{15}\times 2) $$
+**Answer:** $(\frac{1}{1+2+3} \times 1)+(\frac{2}{2+3+4} \times 4)+(\frac{4}{4+5+6}\times 2):
+(\frac{2}{6}\times 1)+(\frac{3}{9}\times 4)+(\frac{5}{15}\times 2):
+(\frac{3}{6}\times 1)+(\frac{4}{9}\times 4)+(\frac{6}{15}\times 2)$
